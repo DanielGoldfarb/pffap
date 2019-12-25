@@ -1,5 +1,4 @@
 <div style="border:2px;border-style:solid;border-color:black;background-color:powderblue;font-style:italic;line-height:150%;">
-    <h4>&nbsp;</h4>
     <h1 style="text-indent:5%;"><a href="https://www.youtube.com/watch?v=4AXAKUlF_3c&t">Pandas for Fun and Profit</a>&nbsp;&nbsp; &larr; Click here for video.</h1>
     <h2 style="line-height:150%;">
        <ul>
